@@ -95,16 +95,4 @@ h2 {
   h2 {
     font-size: 1rem;
   }
-
-  .title-image {
-    position: static;
-  }
-
-  .headcol {
-    text-align: center;
-  }
-
-  .colb {
-    padding-left: 100px;
-  }
 }

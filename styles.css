@@ -113,7 +113,9 @@ h2 {
   .colb {
     padding-left: 100px;
   }
+
+}
+@media (max-width:900px){
   .title-image{
-    width:300px;
-  }
+    width:300px;}
 }

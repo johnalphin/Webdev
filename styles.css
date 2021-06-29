@@ -1,7 +1,7 @@
 html,body{
   width:100%;
-  heigh:100%;
-  padding:1px;
+  height:100%;
+  padding:0px;
   overflow-x: hidden;
 }
 
@@ -31,8 +31,19 @@ h2 {
   font-family: 'Ubuntu Condensed', sans-serif;
   text-align: center;
 }
-
-
+.chat{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color:#C84B31;
+  text-align: center;
+}
+.query{
+  font-size: 25px;
+  color:#C84B31;
+}
+.answer{
+  font-size: 25px;
+  color:#3A6351;
+}
 
 .footer {
   font-family: 'Ubuntu Condensed', sans-serif;
@@ -46,9 +57,6 @@ h2 {
   font-family: 'Ubuntu Condensed', sans-serif;
   background-color: white;
   padding-bottom: 100px;
-}
-.title-image{
-  size:50%;
 }
 
 .navbar {
@@ -78,6 +86,9 @@ h2 {
 .carousel-item {
   padding: 7% 15%;
 }
+.n{
+color: black;
+}
 
 
 
@@ -89,29 +100,52 @@ h2 {
   top: 10px;
 
 }
+#game {
+  background-color: #7ad7a759;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  text-align: center;
+  margin: 0px;
+  top: 10px;
+
+}
+
 
 #services {
-  background-color: #7ad7a759 ;
+  background-color: #7ad7a759;
   text-align: center;
   font-family: 'Ubuntu Condensed', sans-serif;
+
 }
 
 @media (max-width:785px) {
-  h1 {
-    font-size: 2rem;
+  .chat{
+    text-align: centre;
   }
+
+  h1 {
+   font-size: 2rem;
+ }
+
+ h2 {
+   font-size: 1rem;
+ }
+
+
+ .headcol {
+   text-align: center;
+ }
+
+ .colb {
+   padding-left: 100px;
+ }
 
   h2 {
     font-size: 1rem;
   }
+  .chat{
+    padding-left: 200px;
+    text-align:  center;
 
-
-  .headcol {
-    text-align: center;
-  }
-
-  .colb {
-    padding-left: 100px;
   }
 
 }

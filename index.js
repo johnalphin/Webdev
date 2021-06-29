@@ -22,6 +22,11 @@ $("input").on('keypress',function(e) {
 
     if(e.which == 13) {
       var x=$('input:text').val();
+        y=x.slice(0,1);
+      z=x.slice(1,15);
+      y=y.toLowerCase();
+      z=z.toLowerCase();
+      x=y+z;
       if(x!=="yes")
       {
 

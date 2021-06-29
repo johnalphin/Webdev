@@ -36,7 +36,7 @@ $("input").on('keypress',function(e) {
 else if(x=="yes")
 {{
   $("h2.query").fadeOut(2000);
- var y=$("h2.answer").html("Okay come lets play dice game , have fun !!");
+ var y=$("h2.answer").html(" Come lets play !!");
  y.fadeOut(1);
  y.fadeIn(1000);
 }  

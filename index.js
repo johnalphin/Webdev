@@ -2,11 +2,11 @@
 
 $(window).ready(function() {
   $("h1.n").fadeOut(1);
-  $("h1.n").fadeIn(1200);
+  $("h1.n").fadeIn(1600);
   $("img.title-image").fadeOut(1);
-  $("img.title-image").fadeIn(1200);
+  $("img.title-image").fadeIn(1600);
   $("button.con").fadeOut(1);
-  $("button.con").fadeIn(1200);
+  $("button.con").fadeIn(1600);
   $("input").fadeOut(1);
   $("input").fadeIn(1200);
     $("p").fadeOut(1);

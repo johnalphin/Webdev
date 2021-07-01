@@ -110,6 +110,16 @@ color: black;
   text-decoration-color: white;
 
 }
+#game {
+  border-radius: 80px;
+  background-color: #343A40;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  text-align: center;
+  margin: 0px;
+  top: 10px;
+
+}
+
 
 
 #services {

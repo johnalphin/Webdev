@@ -81,6 +81,14 @@ h2 {
 .icon:hover {
   color: #66DE93;
 }
+.ic {
+  color: #01937C;
+  margin-bottom: 1rem;
+}
+
+.ic:hover {
+  color: #CD113B;
+}
 
 .busimage {
   border-radius: 120%;

@@ -17,6 +17,9 @@ a {
 p {
   color: grey;
 }
+h3{
+  color:white;
+}
 
 h1 {
   color: black;
@@ -98,6 +101,7 @@ color: black;
   text-align: center;
   margin: 0px;
   top: 10px;
+  text-decoration-color: white;
 
 }
 #game {

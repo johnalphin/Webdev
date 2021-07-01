@@ -92,7 +92,9 @@ h2 {
 .n{
 color: black;
 }
-
+.bor{
+  border-radius: 80px;
+}
 
 
 #features {

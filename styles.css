@@ -145,6 +145,10 @@ color: black;
     text-align:  center;
 
   }
+  .mob{
+  align-content:center;
+}
+
 
 }
 @media (max-width:900px){

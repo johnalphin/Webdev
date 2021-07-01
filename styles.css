@@ -110,18 +110,10 @@ color: black;
   text-decoration-color: white;
 
 }
-#game {
-  background-color: #7ad7a759;
-  font-family: 'Ubuntu Condensed', sans-serif;
-  text-align: center;
-  margin: 0px;
-  top: 10px;
-
-}
 
 
 #services {
-  background-color: #7ad7a759;
+  background-color: white;
   text-align: center;
   font-family: 'Ubuntu Condensed', sans-serif;
 

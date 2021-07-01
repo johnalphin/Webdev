@@ -45,7 +45,7 @@ else if(x=="yes")
  y.fadeOut(1);
  y.fadeIn(1000);
 }  
- window.location.href="https://www.addictinggames.com/";
+ window.location.href="https://github.com/johnalphin/Webdev/blob/main/custom%20games/index.html";
 }}
 
 });
